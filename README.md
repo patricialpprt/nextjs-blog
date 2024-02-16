@@ -1,4 +1,4 @@
-# MY_PROJECT
+# blog prototype
 
 ## npm commands (package.json scripts)
 
